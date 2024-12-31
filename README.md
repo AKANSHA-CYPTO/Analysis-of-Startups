@@ -1,3 +1,4 @@
+Project 1 
 Overview
 This dataset, named TrendsInStartups_Explorin, contains information on various startups, including their valuation, stage of funding, year founded, sector, size, and location. The file also includes SQL queries designed to extract meaningful insights and trends.
 
@@ -49,3 +50,4 @@ Usage
 Load the TrendsInStartups_Explorin table into your RDBMS.
 Run the SQL queries provided to extract specific insights or trends.
 Modify the queries as necessary to tailor them to additional analyses.
+From: Akansha
